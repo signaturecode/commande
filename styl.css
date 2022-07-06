@@ -1,6 +1,6 @@
 header{
     background-color: white;
-    color: black;
+    color: green;
 }
 header {
    display: flex;
@@ -15,7 +15,7 @@ main{
     background-color:white;
 }
 .titre{
-    background-color:grey;
+    background-color:green;
     margin-top: 5px;
     text-align: center;
     color: white;
