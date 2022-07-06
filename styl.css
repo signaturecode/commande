@@ -1,0 +1,34 @@
+header{
+    background-color: white;
+    color: black;
+}
+header {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around;
+   align-items: center;
+}
+.menu {
+    list-style-type: none;
+ }
+main{
+    background-color:white;
+}
+.titre{
+    background-color:grey;
+    margin-top: 5px;
+    text-align: center;
+    color: white;
+    padding: 2px;
+}
+.com{
+
+    margin-top: 5px;
+    text-align: center;
+    color: grey;
+    padding: 1px;
+}
+.commandes{
+
+   list-style-type: square;
+}
