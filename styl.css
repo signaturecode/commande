@@ -25,6 +25,7 @@ main{
 
     margin-top: 5px;
     text-align: center;
+    align-items: center;
     color: grey;
     padding: 1px;
 }
